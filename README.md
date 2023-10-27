@@ -1,4 +1,5 @@
 # androidStudy
+
 根据《第一行代码》第二版(Java)版本学习的书中的一些例子，和自己学习创建的一些例子
 
 ## ActivityLifeCycTest
@@ -83,7 +84,7 @@
 
 ## ProviderTest
 
-使用内容提供者Provider
+使用内容提供者Content Provider用来管理数据库访问，以及程序内和程序间共享
 
 ## PyfLbsTest
 
