@@ -84,7 +84,11 @@
 
 ## ProviderTest
 
+<<<<<<< HEAD
+使用内容提供者Provider
+=======
 使用内容提供者Content Provider用来管理数据库访问，以及程序内和程序间共享
+>>>>>>> eb057629ac4260dfb6aa7f520ecc8a42c609990f
 
 ## PyfLbsTest
 
@@ -130,3 +134,6 @@
 
 学习UI布局
 
+## AidlDemo
+
+客户端使用AIDL,服务端为ServiceTest
