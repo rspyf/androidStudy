@@ -84,7 +84,7 @@
 
 ## ProviderTest
 
-使用内容提供者Provider
+使用内容提供者Content Provider用来管理数据库访问，以及程序内和程序间共享
 
 ## PyfLbsTest
 
