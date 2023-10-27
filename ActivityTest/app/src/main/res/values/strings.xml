@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ActivityTest</string>
+    <string name="title_activity_first">This is FirstActivity</string>
+</resources>
