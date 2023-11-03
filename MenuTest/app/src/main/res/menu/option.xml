@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="保存" android:id="@+id/save"
+        app:showAsAction="always"/>
+    <item android:title="删除" android:id="@+id/del"/>
+    <item android:title="设置"  android:id="@+id/setting">
+        <menu
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+            <item
+                android:id="@+id/setting1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="设置1" />
+            <item
+                android:id="@+id/setting2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="设置2" />
+            <item
+                android:id="@+id/setting3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:title="设置3" />
+        </menu>
+    </item>
+
+</menu>
